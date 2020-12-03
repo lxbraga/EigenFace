@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 > # EigenVargas
 
 *Lucas Geraldo dos Santos Braga* & *João Pedro Giordani Donasolo*
@@ -505,3 +506,9 @@ Recortando e aproximando na face, perdemos consideravelmente a habilidade de dis
 
 
 
+=======
+# EigenFace
+
+## Overview
+A Python class that implements the Eigenfaces algorithm for face recognition, using eigen decomposition and principle component analysis(PCA) for dimensionality reduction.
+>>>>>>> 9e4d5156d2228d8da48a4e566c7021d44d891355
