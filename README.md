@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 > # EigenVargas
-
-*Lucas Geraldo dos Santos Braga* & *João Pedro Giordani Donasolo*
 		22/11/2020
 
 # Objetivo:
